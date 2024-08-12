@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS and React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Roblox and Discord
-- 📫 How to reach me: email: alfie@whyougetproductions discord: whyouget
+- 📫 How to reach me: email: alfie@whyougetproductions.com discord: whyouget
 - 😄 Pronouns: He/Him
 
 <!---
