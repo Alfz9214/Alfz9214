@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alfz9214
+- # 👋 Hi, I’m @Alfz9214
 - 👀 I’m interested in HTML, CSS, JS and React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js 
 - 💞️ I’m looking to collaborate on Roblox and Discord
 - 📫 How to reach me: email: alfie@whyougetproductions.com discord: whyouget
 - 😄 Pronouns: He/Him
